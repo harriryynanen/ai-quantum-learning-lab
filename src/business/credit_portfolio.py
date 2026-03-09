@@ -1,6 +1,6 @@
 import pandas as pd
 
-REQUIRED_COLUMNS = ["loan_id", "segment", "ead", "pd", "lgd", "interest_margin"]
+REQUIRED_COLUMNS = ["loan_id", "segment", "Exposure at Default", "Probability of Default", "Loss Given Default", "interest_margin"]
 
 
 def load_credit_portfolio(csv_path: str) -> pd.DataFrame:
