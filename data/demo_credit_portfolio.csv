@@ -1,4 +1,4 @@
-loan_id,segment,ead,pd,lgd,interest_margin
+loan_id,segment,Exposure at Default,Probability of Default,Loss Given Default,interest_margin
 L1,retail,100000,0.02,0.45,0.03
 L2,sme,150000,0.04,0.50,0.04
 L3,retail,80000,0.015,0.40,0.025
