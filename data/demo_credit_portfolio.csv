@@ -1,0 +1,6 @@
+loan_id,segment,ead,pd,lgd,interest_margin
+L1,retail,100000,0.02,0.45,0.03
+L2,sme,150000,0.04,0.50,0.04
+L3,retail,80000,0.015,0.40,0.025
+L4,corporate,250000,0.03,0.35,0.05
+L5,sme,120000,0.05,0.55,0.045

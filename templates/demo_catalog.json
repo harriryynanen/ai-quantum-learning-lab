@@ -1,0 +1,22 @@
+{
+  "demos": [
+    {
+      "id": "credit_portfolio_monte_carlo",
+      "title": "Credit Portfolio Monte Carlo",
+      "domain": "banking",
+      "business_goal": "Estimate expected credit losses under simplified scenarios",
+      "classical_method": "Monte Carlo simulation",
+      "quantum_role": "Probability modeling demonstration via local Qiskit simulation",
+      "status": "planned"
+    },
+    {
+      "id": "credit_selection_optimization",
+      "title": "Credit Selection Optimization",
+      "domain": "banking",
+      "business_goal": "Select a subset of loans under risk constraints",
+      "classical_method": "Brute-force or constrained optimization",
+      "quantum_role": "QUBO-style mapping demonstration",
+      "status": "planned"
+    }
+  ]
+}

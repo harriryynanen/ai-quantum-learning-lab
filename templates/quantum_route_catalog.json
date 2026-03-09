@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "id": "local_probability_demo",
+      "backend_mode": "local_simulator",
+      "used_for": ["credit_portfolio_monte_carlo"]
+    },
+    {
+      "id": "local_qubo_demo",
+      "backend_mode": "local_simulator",
+      "used_for": ["credit_selection_optimization"]
+    }
+  ]
+}

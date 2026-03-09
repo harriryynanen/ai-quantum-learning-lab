@@ -1,0 +1,21 @@
+{
+  "project_name": "AI Quantum Learning Lab",
+  "current_phase": "phase_1_foundations",
+  "available_demos": [
+    "credit_portfolio_monte_carlo",
+    "credit_selection_optimization"
+  ],
+  "completed_items": [
+    "repo_structure_defined"
+  ],
+  "next_recommended_items": [
+    "create_demo_catalog",
+    "implement_credit_portfolio_csv_loader",
+    "build_first_colab_notebook"
+  ],
+  "notes": [
+    "Use local Qiskit simulation only",
+    "Keep each step visible and explainable",
+    "AI acts as guide, not autonomous coder"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "scenarios": [
+    {"name": "base", "pd_multiplier": 1.0},
+    {"name": "stress_light", "pd_multiplier": 1.2},
+    {"name": "stress_heavy", "pd_multiplier": 1.5}
+  ]
+}
